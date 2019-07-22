@@ -1,0 +1,26 @@
+{
+    "development": {
+        "username": "xxx",
+        "password": "xxx",
+        "database": "xxx",
+        "port": "25060",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "xxx",
+        "password": "xxx",
+        "database": "xxx",
+        "port": "25060",
+        "host": "TESTHOST.com",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "xxx",
+        "password": "xxx",
+        "database": "xxx",
+        "port": "25060",
+        "host": "somedbhost.db.ondigitalocean.com",
+        "dialect": "postgres"
+    }
+}
